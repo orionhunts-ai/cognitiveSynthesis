@@ -15,11 +15,11 @@ Together, these components work in synergy to predict, detect, and neutralize cy
 
 core@synavate.tech.
 
-Terraform Deployment Experiment thank you to Gretel AI: 
-https://github.com/gretelai/gretel-hybrid/tree/main/terraform-v2/gcp
-Dataset:
-https://huggingface.co/datasets/Olec/cyber-threat-intelligence_v2
-Gretel Info: 
+1. Terraform Deployment Experiment thank you to Gretel AI: 
+  https://github.com/gretelai/gretel-hybrid/tree/main/terraform-v2/gcp
+2. Dataset:
+  https://huggingface.co/datasets/Olec/cyber-threat-intelligence_v2
+3. Gretel Info: 
 https://docs.gretel.ai/operate-and-manage-gretel/gretel-hybrid/deployment/gcp-setup
 
 
