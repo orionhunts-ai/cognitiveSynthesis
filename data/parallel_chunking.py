@@ -11,6 +11,7 @@
 
 import multiprocessing
 import numpy as np
+import pandas as pd
 from notebook_logging import setup_logging
 # @TODO CHUNKING A DATAFRAME GENERALLY!
 logger = setup_logging()
