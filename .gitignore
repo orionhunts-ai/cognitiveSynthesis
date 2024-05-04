@@ -3,6 +3,7 @@ venv/
 .env
 *.env
 _private/
+_notebooks/
 *_private/
 .editorconfig
 
